@@ -29,3 +29,9 @@ Before running this project:
 
 * Update project names and IDs in projects.py according to your TestRail projects
 * Update sub domain in API URL and TestRail credentials in coverageCalculation.py
+
+Below is the link to the all useful APIs:
+  - [Suites – TestRail Support Center](https://support.testrail.com/hc/en-us/articles/7077936624276-Suites#getsuite)
+  - [Cases – TestRail Support Center](https://support.testrail.com/hc/en-us/articles/7077292642580-Cases#getcases)
+  - [Tests – TestRail Support Center](https://support.testrail.com/hc/en-us/articles/7077990441108-Tests#gettest)
+  - [Runs – TestRail Support Center](https://support.testrail.com/hc/en-us/articles/7077874763156-Runs#getrun)
