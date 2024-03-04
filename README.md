@@ -22,3 +22,10 @@ pip3 install requests
 ```
 python3 coverageCalculation.py
 ```
+
+**NOTE:**
+
+Before running this project: 
+
+* Update project names and IDs in projects.py according to your TestRail projects
+* Update sub domain in API URL and TestRail credentials in coverageCalculation.py
